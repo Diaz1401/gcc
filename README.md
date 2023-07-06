@@ -6,8 +6,8 @@ Check latest release [here](https://github.com/Diaz1401/gcc/releases/latest)
 
 # Features
 ```
-  ==> GCC-14.0.0-20230703
-  ==> Binutils-2.41.50
+  ==> GCC-20230705-20230705
+  ==> Binutils-
   ==> Targets: 'aarch64-elf', 'x86_64-elf'
   ==> Stripped binaries
   ==> Highly compressed tar archive with zstd v1.5.5
