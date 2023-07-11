@@ -6,7 +6,7 @@ Check latest release [here](https://github.com/Diaz1401/gcc/releases/latest)
 
 # Features
 ```
-  ==> GCC-20230708-20230708
+  ==> GCC-20230710-20230710
   ==> Binutils-
   ==> Targets: 'aarch64-elf', 'x86_64-elf'
   ==> Stripped binaries
